@@ -1,7 +1,7 @@
 # Terraform Script to create S3 repo on AWS.
 
 ## Following AWS resources will be created.
-- S3 repo.
+- S3 Bucket.
 - S3 Access.
 - S3 Ownership.
 
