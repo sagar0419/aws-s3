@@ -1,4 +1,4 @@
-# Terraform Script to create S3 repo on AWS.
+# Terraform Script to create S3 Bucket on AWS.
 
 ## Following AWS resources will be created.
 - S3 Bucket.
