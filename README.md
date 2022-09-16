@@ -1,6 +1,6 @@
 # Terraform Script to create S3 Bucket on AWS.
 
-## Following AWS resources will be created.
+### Following AWS resources will be created.
 - S3 Bucket.
 - S3 Access.
 - S3 Ownership.
